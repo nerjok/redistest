@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TV6s7XOc1rUOGOXsEPjT2g6w+qcAoc2H/ZJ3RpOz/cRIuLc9DRFD+DJpafw9dybTAh2gEHg0acf6Egpj6Zky9A==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\S8578F\\Desktop\\sources\\csharp\\RedisCacheDemo\\RedisCacheDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S8578F\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\S8578F\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\S8578F\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
+    "C:\\Users\\S8578F\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
