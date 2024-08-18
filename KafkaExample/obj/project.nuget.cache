@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0+WiwJw4t94Luq1GUy6Z40EmN7mJ6d8QdciJHAhgT9m5mvFhngbm2atA81EtAwWkgCIbVppRrpjq3RufeHslg==",
+  "success": true,
+  "projectFilePath": "/home/dell/Documents/charp/redistest/KafkaExample/KafkaExample.csproj",
+  "expectedPackageFiles": [
+    "/home/dell/.nuget/packages/confluent.kafka/1.8.0/confluent.kafka.1.8.0.nupkg.sha512",
+    "/home/dell/.nuget/packages/librdkafka.redist/1.8.0/librdkafka.redist.1.8.0.nupkg.sha512",
+    "/home/dell/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

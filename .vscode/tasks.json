@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/RedisCacheDemo/RedisCacheDemo.generated.sln",
+        "${workspaceFolder}/RedisCacheDemo.generated.sln",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary;ForceNoAlign"
       ],
